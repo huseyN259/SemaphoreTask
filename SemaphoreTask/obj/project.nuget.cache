@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbpXc6wEkhVHftISbA4CwNlzQjYG3skIHtNW2JwAJVMbFwERryKzvMvs/bPfrtWMAVRM1nivmeLhYI5TpQEF+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\SemaphoreTask\\SemaphoreTask\\SemaphoreTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
